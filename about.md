@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello this my learning blog throughout year 8 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+There are blog posts for every week
 
 ### Contact me
 
